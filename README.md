@@ -1,23 +1,23 @@
 # CodeIgniter-Blog-project
-Features:
-1.User Login
-2.User Registration
-3.Blog create/delete
-4.Blog view/update
-4.Post Categories
-5.Pagination
+Features:<br>
+1.User Login<br>
+2.User Registration<br>
+3.Blog create/delete<br>
+4.Blog view/update<br>
+4.Post Categories<br>
+5.Pagination<br>
 
 # URL to Access the Project
-http://localhost/folderName
+http://localhost/folderName <br>
 In this case it will be http://localhost/blog
 
 # Database
-Create Database named - 'blogproject'.
-Use the file blogproject.sql to import it into the database which you just created.
+Create Database named - 'blogproject'.<br>
+Use the file blogproject.sql to import it into the database which you just created.<br>
 
 # Requirements
-XAMPP server
+XAMPP server<br>
 Stable Internet Connection
 
 # Need help or have some suggestions ?
-Please feel free to ping me at my LinkedIn Profile :  https://www.linkedin.com/in/amit-r-gupta/
+Please feel free to ping me at my LinkedIn Profile :  https://www.linkedin.com/in/amit-r-gupta/ <br>
