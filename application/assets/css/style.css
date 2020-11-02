@@ -1,0 +1,28 @@
+html,body{
+
+/*background: url('../images/bg.jpg');*/
+background-color: #cadef1 !important;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+.top-margin{
+	padding-top: 72px !important;
+}
+.img-border{
+	border: 1px solid #FFF;
+}
+.pagination{
+	justify-content: center;
+}
+.pagination strong{
+	color: #df691a;
+    padding: 15px;
+    background-color: #4e5d6c;
+}
+.pagination .pagination-link{
+	padding: 15px;
+    background-color: whitesmoke;
+}
