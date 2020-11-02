@@ -16,7 +16,7 @@ Create Database named - 'blogproject'.<br>
 Use the file blogproject.sql to import it into the database which you just created.<br>
 
 # Login Credentials
-When the sql file is imported successfully you can use the below login credentials for the exploring the project:-<br>
+When the sql file is imported successfully you can use the below login credentials for exploring the project:-<br>
 Username: test Password: test <br>
 Username: medge Password: medge <br>
 
